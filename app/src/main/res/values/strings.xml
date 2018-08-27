@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Movie Lister</string>
+    <string name="title_activity_movie">MovieActivity</string>
+    <string name="addMovie">Add Movie!</string>
+    <string name="massageDia">What Do You Wonna Do?</string>
+    <string name="AddManual">Add Manual?</string>
+    <string name="search">Search</string>
+    <string name="save">Save</string>
+    <string name="update">Update</string>
+    <string name="show">Show</string>
+    <string name="cancel">Cancel</string>
+
+</resources>
